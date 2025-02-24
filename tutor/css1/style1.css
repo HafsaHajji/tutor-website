@@ -31,6 +31,7 @@ img {
   max-width: 100%;
 }
 
+/* Utility classes */
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -42,6 +43,20 @@ img {
   margin: 0 auto;
   padding: 0 2rem;
 }
+
+.btn {
+  display: inline-block;
+  padding: 1.6rem 2.6rem;
+  border: 1px solid var(--Secondary-color);
+  border-radius: 32px;
+  background: var(--Secondary-color);
+  color: var(--dark-color);
+  cursor: pointer;
+  transition: all 0.2s;
+
+
+}
+
 
 /* navbar */
 
@@ -159,10 +174,13 @@ font-size: 1.2rem;
   margin-bottom: 2rem;
   line-height: 1.8;
   font-weight: 400;
-  
+
 }
 
-
+.hero img {
+  width: 100%;
+  margin: -100px;
+}
 
 /* media queries */
 
