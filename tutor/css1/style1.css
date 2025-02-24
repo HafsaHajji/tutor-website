@@ -127,6 +127,14 @@ gap: 2rem;
 font-size: 1.2rem;
 }
 
+/* Hero */
+
+.hero {
+  background: #000 url(../images1/header-background.jpg) 
+  center center/cover no-repeat;
+  padding: 11.5rem 2rem 8rem;
+}
+
 /* media queries */
 
 @media (max-width : 1200px) {
