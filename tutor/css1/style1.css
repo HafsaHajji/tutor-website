@@ -53,8 +53,6 @@ img {
   color: var(--dark-color);
   cursor: pointer;
   transition: all 0.2s;
-
-
 }
 
 .btn:hover {
@@ -66,7 +64,7 @@ img {
 /* navbar */
 
 .navbar {
-  background: black;
+  background: transparent  ;
   color: white;
   padding: 1rem 2rem;
   position: fixed;
@@ -185,6 +183,12 @@ font-size: 1.2rem;
 .hero img {
   width: 100%;
   margin: -100px;
+}
+
+.hero .frame-decoration {
+  position: absolute;
+  bottom: 0;
+  
 }
 
 /* media queries */
