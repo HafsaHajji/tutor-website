@@ -138,13 +138,14 @@ font-size: 1.2rem;
   position: relative;
 }
 
-.hero-flex {
+.hero .hero-flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 6rem;
   padding-bottom: 8rem;
 }
+
 
 /* media queries */
 
