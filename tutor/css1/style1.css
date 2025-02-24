@@ -138,6 +138,10 @@ font-size: 1.2rem;
   position: relative;
 }
 
+.hero-flex {
+  display: flex;
+}
+
 /* media queries */
 
 @media (max-width : 1200px) {
