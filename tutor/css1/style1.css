@@ -134,7 +134,7 @@ font-size: 1.2rem;
   center center/cover no-repeat;
   padding: 11.5rem 2rem 8rem;
   color: #fff;
-  
+  overflow-x: hidden;
 }
 
 /* media queries */
