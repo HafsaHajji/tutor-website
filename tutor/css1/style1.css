@@ -140,6 +140,8 @@ font-size: 1.2rem;
 
 .hero-flex {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* media queries */
