@@ -46,7 +46,7 @@ img {
 
 .btn {
   display: inline-block;
-  padding: 1.6rem 2.6rem;
+  padding: 1.3rem 2.3rem;
   border: 1px solid var(--Secondary-color);
   border-radius: 32px;
   background: var(--Secondary-color);
@@ -197,10 +197,28 @@ font-size: 1.2rem;
 /* media queries */
 
 @media (max-width : 1200px) {
+ .hero .hero-flex {
+    gap: 8rem;
+  }
+
+  .hero img {
+    max-width: 500px;
+    margin-right: 0;
+  }
   
+  .hero h1 {
+    font-size: 3rem;
+  }
 }
 @media (max-width : 992px) {
-  
+  .hero {
+    text-align: center;
+  }
+
+  .hero .hero-flex {
+    flex-direction: column;
+    padding: bottom 4rem; 
+  }
 }
 @media (max-width : 768px) {
   .main-menu-items {
