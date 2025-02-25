@@ -257,6 +257,11 @@ font-weight: 700;
 margin: 0.5rem 0;
 }
 
+/* Chapter Cards */
+.chapter-cards {
+  grid-template-columns: repeat(3, 1fr);
+}
+
 /* media queries */
 
 @media (max-width : 1200px) {
