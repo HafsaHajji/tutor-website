@@ -260,6 +260,7 @@ margin: 0.5rem 0;
 /* Chapter Cards */
 .chapter-cards {
   grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
 }
 
 /* media queries */
