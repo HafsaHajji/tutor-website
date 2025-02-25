@@ -312,7 +312,10 @@ padding: 2rem;
   margin: 1rem 0;
 }
 
-
+.summary .list-item {
+  padding: 1.4rem 0 ;
+  border-bottom: 1px solid #f1f4f6;
+}
 
 /* media queries */
 
