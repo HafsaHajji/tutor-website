@@ -303,6 +303,10 @@ background: #fff;
 padding: 2rem;
 }
 
+.summary .list-header {
+  background: var(--primary-color);
+}
+
 /* media queries */
 
 @media (max-width : 1200px) {
