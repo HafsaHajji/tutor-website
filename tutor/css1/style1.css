@@ -294,7 +294,9 @@ margin: 0.5rem 0;
 /* Course Summary */
 .summary {
   background: var(--Light-color);
-  
+  color: var(--dark-color);
+  padding: 4rem 2rem 5rem;
+
 }
 
 
