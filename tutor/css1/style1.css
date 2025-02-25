@@ -317,6 +317,9 @@ padding: 2rem;
   border-bottom: 1px solid #f1f4f6;
 }
 
+.summary .list-item:last-child {
+  border-bottom: none;
+}
 /* media queries */
 
 @media (max-width : 1200px) {
@@ -381,7 +384,13 @@ padding: 2rem;
  }
 
  .topics {
+
   grid-template-columns:  1fr;
-}
+  }
+
+  .summary.container {
+    padding: 0;
+  }
+
 }
 
