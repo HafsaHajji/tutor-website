@@ -61,6 +61,10 @@ img {
   border-color: #fff;
   }
 
+  .section {
+    margin: 4rem 0;
+  }
+
 /* Section header */
 
 .section-header {
