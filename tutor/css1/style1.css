@@ -290,6 +290,14 @@ margin: 0.5rem 0;
   margin: 1rem 0;
 }
 
+
+/* Course Summary */
+.summary {
+  background: var(--Light-color)
+  ;
+}
+
+
 /* media queries */
 
 @media (max-width : 1200px) {
