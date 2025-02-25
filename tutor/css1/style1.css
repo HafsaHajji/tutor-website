@@ -305,6 +305,7 @@ padding: 2rem;
 
 .summary .list-header {
   background: var(--primary-color);
+  color: #fff;
 }
 
 /* media queries */
