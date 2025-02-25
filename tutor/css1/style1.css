@@ -261,6 +261,7 @@ margin: 0.5rem 0;
 .chapter-cards {
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
+  padding: 1rem 0 4rem;
 }
 
 /* media queries */
