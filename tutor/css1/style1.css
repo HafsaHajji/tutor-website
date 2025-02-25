@@ -104,6 +104,7 @@ img {
   text-align: center;
   padding: 2rem 1.75rem;
   background: #fff;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.3);
 
 
 }
