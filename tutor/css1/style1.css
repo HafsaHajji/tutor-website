@@ -61,7 +61,7 @@ img {
   border-color: #fff;
   }
 
-  .section {
+.section {
     margin: 4rem 0;
   }
 
@@ -259,6 +259,7 @@ margin: 0.5rem 0;
 
 /* Chapter Cards */
 .chapter-cards {
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   padding: 1rem 0 4rem;
