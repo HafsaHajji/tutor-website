@@ -27,15 +27,15 @@
   list-style-type: none;
 } */
 
-img {
+/* img {
   max-width: 100%;
-}
+} */
 
 /* Utility classes */
-.container {
+/* .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 2rem; */
 }
 
 .container-sm {
