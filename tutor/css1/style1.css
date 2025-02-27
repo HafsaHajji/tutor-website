@@ -173,7 +173,7 @@ font-size: 1.5rem;
 }
 
 .navbar .mobile-menu-items {
-/* position: absolute; */
+position: absolute;
 /* top: 100%; */
 /* left: 0; */
 /* width: 100%; */
