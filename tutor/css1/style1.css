@@ -167,10 +167,10 @@ font-size: 1.5rem;
   display: none;
 }
 
-/* .navbar .mobile-menu-toggle {
+.navbar .mobile-menu-toggle {
   color: white;
   cursor: pointer;
-} */
+}
 
 .navbar .mobile-menu-items {
 /* position: absolute; */
