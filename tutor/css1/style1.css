@@ -87,13 +87,13 @@ img {
   color: var(--dark-color);
 }
 
-/* .heading-border {
+.heading-border {
   width: 64px;
   height: 4px;
   background: var(--primary-color);
   margin: 0 auto 2rem;
   
-} */
+}
 
 /* card */
 /* .card {
