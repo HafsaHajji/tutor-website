@@ -367,6 +367,22 @@ padding: 2rem;
   width: 50%;
 }
 
+/* Takeaways */
+.takeaways-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 1.5rem 0;
+}
+
+.takeaways-cards .card {
+  flex-direction: row;
+  text-align: left;
+}
+
+.takeaways-cards .card i {
+  margin-right: 1rem;
+}
 
 /* media queries */
 
@@ -404,6 +420,10 @@ padding: 2rem;
   .chapter-cards {
     grid-template-columns: 1fr;
   }
+  .takeaways-cards {
+    grid-template-columns: 1fr;
+  }
+
 }
 @media (max-width : 768px) {
   .main-menu-items {
