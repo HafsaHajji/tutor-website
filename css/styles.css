@@ -709,7 +709,7 @@ img {
   }
 
   .social .social-icons {
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
   }
 
   .social p {
