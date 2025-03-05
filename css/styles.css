@@ -725,7 +725,7 @@ img {
   }
 
   .footer-flex {
-    flex-direction: column;
+    /* flex-direction: column; */
     text-align: center;
   }
 }
