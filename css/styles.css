@@ -709,19 +709,19 @@ img {
   }
 
   .social .social-icons {
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
   }
 
   .social p {
-    /* font-size: 1.2rem; */
+    font-size: 1.2rem;
   }
 
   .social i {
-    /* font-size: 2rem; */
+    font-size: 2rem;
   }
 
   .footer {
-    /* padding: 0.5rem 1rem; */
+    padding: 0.5rem 1rem;
   }
 
   .footer-flex {
