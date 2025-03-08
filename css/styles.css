@@ -474,7 +474,7 @@ img {
 }
 
 .newsletter-flex {
-  display: flex;
+  /* display: flex; */
   gap: 1rem;
   flex-direction: column;
   justify-content: center;
