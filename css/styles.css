@@ -478,7 +478,7 @@ img {
   /* gap: 1rem; */
   /* flex-direction: column; */
   /* justify-content: center; */
-  align-items: center;
+  /* align-items: center; */
   background: var(--light-color);
   border: 1px solid #eee;
   padding: 4rem 2rem;
