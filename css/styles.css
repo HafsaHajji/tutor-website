@@ -477,7 +477,7 @@ img {
   /* display: flex; */
   /* gap: 1rem; */
   /* flex-direction: column; */
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   background: var(--light-color);
   border: 1px solid #eee;
