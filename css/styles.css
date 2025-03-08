@@ -476,7 +476,7 @@ img {
 .newsletter-flex {
   /* display: flex; */
   /* gap: 1rem; */
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
   background: var(--light-color);
