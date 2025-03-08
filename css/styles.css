@@ -490,7 +490,7 @@ img {
 }
 
 .newsletter p {
-  max-width: 600px;
+  /* max-width: 600px; */
 }
 
 .newsletter input[type='email'] {
