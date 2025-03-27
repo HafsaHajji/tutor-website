@@ -57,7 +57,7 @@ img {
 }
 
 .btn:hover {
-  background: var(--primary-color);
+  /* background: var(--primary-color); */
   color: #fff;
   border-color: #fff;
 }
