@@ -52,7 +52,7 @@ img {
   /* border-radius: 32px; */
   /* background: var(--secondary-color); */
   /* color: var(--dark-color); */
-  cursor: pointer;
+  /* cursor: pointer; */
   transition: all 0.2s;
 }
 
