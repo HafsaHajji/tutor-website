@@ -53,7 +53,7 @@ img {
   /* background: var(--secondary-color); */
   /* color: var(--dark-color); */
   /* cursor: pointer; */
-  transition: all 0.2s;
+  /* transition: all 0.2s; */
 }
 
 .btn:hover {
