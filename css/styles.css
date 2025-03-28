@@ -51,7 +51,7 @@ img {
   /* border: 1px solid var(--secondary-color); */
   /* border-radius: 32px; */
   /* background: var(--secondary-color); */
-  /* color: var(--dark-color); */
+  color: var(--dark-color);
   cursor: pointer;
   transition: all 0.2s;
 }
